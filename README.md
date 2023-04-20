@@ -4,6 +4,6 @@ This is a program that takes in an Amount and Available Coins. Provides all poss
 
 How to Run Program?
 1. Download Source files.
-2. In your terminal run g++ Menu.cpp entities/*.cpp
+2. In your terminal run g++ main.cpp Menu.cpp entities/*.cpp
 3. run the executable ./a.out
 4. Follow the prompts
